@@ -20,4 +20,4 @@ This script retrieves cryptocurrency market data from the CoinGecko API, process
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Flyingmonk01/chart-bitcoin)
